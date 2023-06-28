@@ -12,8 +12,11 @@ function App() {
         className="App
   ">
         {" "}
-        <h1>Be Crazy with git hub</h1>
-        <p> Exercise to get confident with all the command </p>
+        <h1 className="title">Be Crazy with git hub</h1>
+        <p className="description">
+          {" "}
+          Exercise to get confident with all the command{" "}
+        </p>
       </div>
     </>
   );
